@@ -1,4 +1,7 @@
-A KDE 3.5 inspired PSP theme using graphics from the [Trinity Desktop Environment](https://www.trinitydesktop.org/) (The Wallpaper) and [KrystalSVG from blackysgate.de for Plasma 5-6 and up](https://www.xfce-look.org/p/2193019).
+#KDE 3.5 PSP Theme
+#A KDE 3.5 inspired PSP theme using graphics from the [Trinity Desktop Environment](https://www.trinitydesktop.org/) (The Wallpaper) and [KrystalSVG from blackysgate.de for Plasma 5-6 and up](https://www.xfce-look.org/p/2193019).
+
+![Example Image](https://github.com/Excel73/KDE-3.5-PSP-Theme/blob/main/Preview%20%26%20Metadata/Preview%20Image.png)
 
 ## How to "compile"
 
@@ -6,7 +9,7 @@ A KDE 3.5 inspired PSP theme using graphics from the [Trinity Desktop Environmen
 
 2. Click on "Import exact-size icon folder"
 
-3. Select "KDE 3.5 PSP Theme-main/PTF Studio/"
+3. Select "KDE-3.5-PSP-Theme-main/!PTF Studio/"
 
 4. Click on any icon with the word "Focus" on it > "Generate focus for selected icon"
 
@@ -20,10 +23,6 @@ A KDE 3.5 inspired PSP theme using graphics from the [Trinity Desktop Environmen
 
 10. Put the PTF file in /PSP/THEME/ on your PSP's memory card or microSD card and you're done! 
 
-## License
-
-I want this to be public without the ability for monitary gain, but because I can't just have an CC ND license, it will have a CC BY-ND 4.0 license.
-
 ## Credit
 
 - The designers/photographers behind TDE/KDE 3.5
@@ -33,3 +32,10 @@ I want this to be public without the ability for monitary gain, but because I ca
 - [SimplyBlue](https://github.com/S1implyBlue/)
 
 Thank you all!
+
+## License
+
+Note: Blackcrack's CC license on the icon pack is CC0 so I believe that I'm good to use this license. Someone correct me if I'm wrong, I also don't want to be rude by using this license.
+I want this to be public without the ability for monetary gain, but because I can't just have an CC ND license, it will have a CC BY-ND 4.0 license.
+
+![CC BY-ND 4.0 81x33](https://github.com/Excel73/KDE-3.5-PSP-Theme/main/license.png)
