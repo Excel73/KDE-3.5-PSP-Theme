@@ -31,7 +31,7 @@
 
 - [blackysgate.de/Blackcrack](https://www.xfce-look.org/u/Blackcrack)
 
-- [SimplyBlue](https://github.com/S1implyBlue/)
+- [SimplyBlue](https://github.com/S1implyBlue/) for creating [PTF Editor](https://s1implyblue.github.io/PTF-Studio/)
 
 Thank you all!
 
