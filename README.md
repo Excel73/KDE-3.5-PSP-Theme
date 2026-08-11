@@ -17,7 +17,7 @@
 
 7. Click on "Generate matching focus assets" > "Export"
 
-8. In the other pop-up menu, make "Output filename" "KDE 3.5.ptf", make "Theme title" "KDE 3.5 PSP Theme", make "Product ID" "KDE_3-5_PSP_THEME", make "Version" the version on the GitHub project, and change "Theme color" to "July — Turquoise" or "August — Blue", you pick!
+8. In the other pop-up menu, make "Output filename" "KDE 3.5.ptf", make "Theme title" "KDE 3.5 PSP Theme", make "Product ID" "KDE_3-5_PSP_THEME", make "Version" the version on the GitHub project, and change "Theme color" to "July — Turquoise" or "August — Blue", you pick! (The "Release" PTF file uses "July — Turquoise".)
 
 9. Check off "I confirm that I reviewed the validation results and want to export this theme." and click on "Export validated PTF"
 
