@@ -1,4 +1,5 @@
 #KDE 3.5 PSP Theme
+
 #A KDE 3.5 inspired PSP theme using graphics from the [Trinity Desktop Environment](https://www.trinitydesktop.org/) (The Wallpaper) and [KrystalSVG from blackysgate.de for Plasma 5-6 and up](https://www.xfce-look.org/p/2193019).
 
 ![Example Image](https://github.com/Excel73/KDE-3.5-PSP-Theme/blob/main/Preview%20%26%20Metadata/Preview%20Image.png)
