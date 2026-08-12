@@ -44,6 +44,6 @@ Thank you all!
 
 Note: Blackcrack's CC license on the icon pack is CC0 so I believe that I'm good to use this license. Someone correct me if I'm wrong, I also don't want to be rude by using this license.
 
-I want this to be public without the ability for monetary gain, but because I can't just have an CC NC license, it will have a CC BY-NC 4.0 license.
+I want this to be public without the ability for monetary gain, but because I can't just have an CC NC 4.0 license, it will have a CC BY-NC 4.0 license.
 
 ![CC BY-ND 4.0 81x33](https://github.com/Excel73/KDE-3.5-PSP-Theme/blob/main/license.png)
