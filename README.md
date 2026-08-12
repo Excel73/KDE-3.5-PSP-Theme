@@ -11,7 +11,7 @@
 
 2. Click on "Import exact-size icon folder"
 
-3. Select "KDE-3.5-PSP-Theme-main/!PTF Studio/"
+3. Select and open "KDE-3.5-PSP-Theme-main/!PTF Studio/"
 
 4. Click on any icon with the word "Focus" on it > "Generate focus for selected icon"
 
